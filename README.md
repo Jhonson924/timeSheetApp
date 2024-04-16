@@ -1,5 +1,5 @@
 # timeSheetApp
-Mobile based application app for timesheet submission for Employee --> Client realtionship model
+Mobile based application app for timesheet submission with localCache for Employee --> Client realtionship model
 
 **#useCase**
 
